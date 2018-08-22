@@ -1,0 +1,2 @@
+# smartGit
+test smartGit
